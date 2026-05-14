@@ -1,0 +1,4 @@
+model,accuracy,macro_f1,weighted_f1,macro_precision,macro_recall
+random_forest,0.9994,0.9994,0.9994,0.9994,0.9994
+svm,0.9844,0.9844,0.9844,0.9847,0.9844
+mlp,0.9825,0.9825,0.9825,0.9826,0.9825
